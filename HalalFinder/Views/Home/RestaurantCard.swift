@@ -1,0 +1,1 @@
+// Individual restaurant card component
