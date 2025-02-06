@@ -1,1 +1,0 @@
-// Saved restaurant card design
